@@ -1,0 +1,75 @@
+﻿@model IEnumerable<_1670_Source_Duy.Models.Book>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutManager.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="row tm-content-row">
+        <div class="col-12 tm-block-col">
+            <div class="tm-bg-primary-dark tm-block tm-block-products">
+                <div class="tm-product-table-container">
+                    <a class="btn btn-primary btn-block text-uppercase mb-3" asp-action="Create">Create New</a>
+                    <table class="table table-hover tm-table-small tm-product-table">
+                        <thead>
+                            <tr>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.BookTitle)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Description)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Price)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Image)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Category)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Author)
+                                </th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                    @foreach (var item in Model) {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.BookTitle)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Description)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Price)
+                                </td>
+                                <td>
+                                    @if (!string.IsNullOrEmpty(item.Image))
+                                    {
+                                        <img src="~/img/@Url.Content(item.Image)" alt="@item.BookTitle" width="100" />
+                                    }
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Category.CategoryName)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Author)
+                                </td>
+                                <td>
+                                        <a class="btn btn-primary btn-block text-uppercase mb-1" asp-action="Edit" asp-route-id="@item.BookId">Edit</a>
+                                        <a class="btn btn-primary btn-block text-uppercase mb-1" asp-action="Details" asp-route-id="@item.BookId">Details</a>
+                                        <a class="btn btn-primary btn-block text-uppercase mb-1" asp-action="Delete" asp-route-id="@item.BookId">Delete</a>
+                                </td>
+                            </tr>
+                    }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

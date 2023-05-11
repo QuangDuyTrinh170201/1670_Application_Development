@@ -1,0 +1,54 @@
+﻿@{
+    Layout = "~/Views/Shared/_LayoutManager.cshtml";
+}
+    <!-- row -->
+<h2 class="tm-block-title">Admin Dashboard</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Email</th>
+            <th scope="col">Roles</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (TempData["message"] != null)
+        {
+            <div class="alert alert-danger">@TempData["message"]</div>
+        }
+        @if (TempData["messageDelete"] != null)
+        {
+            <div class="alert alert-danger">@TempData["messageDelete"]</div>
+        }
+        @foreach (dynamic item in Model)
+        {
+            var userId = (string)item.UserId;
+            var userEmail = (string)item.Email;
+            var userRoles = (List<string>)item.Roles;
+            var allRoles = item.AllRoles;
+            <tr>
+                <td>@userEmail</td>
+                <td>
+                    <form asp-action="UpdateRoles" asp-controller="Manager" method="post">
+                        <input type="hidden" name="userId" value="@userId" />
+                        @foreach (var role in allRoles)
+                        {
+                            <div>
+                                <input type="radio" name="roles" value="@role.Name" @(userRoles.Contains(role.Name) ? "checked" : "") />
+                                <label>@role.Name</label>
+                            </div>
+                        }
+                        <button class="btn btn-outline-success" type="submit">Save</button>
+                    </form>
+                </td>
+                <td>
+                    <form asp-action="Delete" asp-controller="Manager" method="post" onsubmit="return confirm('Are you sure you want to delete this user?');">
+                        <input type="hidden" name="id" value="@userId" />
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

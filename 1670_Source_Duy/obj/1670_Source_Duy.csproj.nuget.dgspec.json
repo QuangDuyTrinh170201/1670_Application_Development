@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Duy\\Desktop\\1670\\1670_Source_Duy\\1670_Source_Duy\\1670_Source_Duy.csproj": {}
+    "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\1670_Source_Duy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Duy\\Desktop\\1670\\1670_Source_Duy\\1670_Source_Duy\\1670_Source_Duy.csproj": {
+    "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\1670_Source_Duy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Duy\\Desktop\\1670\\1670_Source_Duy\\1670_Source_Duy\\1670_Source_Duy.csproj",
+        "projectUniqueName": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\1670_Source_Duy.csproj",
         "projectName": "1670_Source_Duy",
-        "projectPath": "C:\\Users\\Duy\\Desktop\\1670\\1670_Source_Duy\\1670_Source_Duy\\1670_Source_Duy.csproj",
+        "projectPath": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\1670_Source_Duy.csproj",
         "packagesPath": "C:\\Users\\Duy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Duy\\Desktop\\1670\\1670_Source_Duy\\1670_Source_Duy\\obj\\",
+        "outputPath": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Duy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,21 +44,31 @@
               "target": "Package",
               "version": "[7.0.4, )"
             },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.4, )"
+              "version": "[7.0.5, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[7.0.4, )"
+              "version": "[7.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.4, )"
+              "version": "[7.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.4, )"
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.6, )"
             }
           },
           "imports": [
@@ -80,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
