@@ -9,201 +9,209 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _1670_Source_Duy
 build_property.RootNamespace = _1670_Source_Duy
-build_property.ProjectDir = C:\Users\Duy\Desktop\Duy\1670_Application_Development\1670_Source_Duy\
+build_property.ProjectDir = C:\Users\trinh\OneDrive\Desktop\Duy\1670_Application_Development\1670_Source_Duy\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Duy\Desktop\Duy\1670_Application_Development\1670_Source_Duy
+build_property.MSBuildProjectDirectory = C:\Users\trinh\OneDrive\Desktop\Duy\1670_Application_Development\1670_Source_Duy
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/Logout.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/AppRoles/Create.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/AppRoles/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwUm9sZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/AppRoles/Delete.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/AppRoles/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwUm9sZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/AppRoles/Details.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/AppRoles/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwUm9sZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/AppRoles/Edit.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/AppRoles/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwUm9sZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/AppRoles/Index.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/AppRoles/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwUm9sZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Books/Create.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Books/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Books/Delete.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Books/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Books/Details.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Books/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Books/Edit.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Books/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Books/Index.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Books/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Categories/Create.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Categories/Delete.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Categories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Categories/Edit.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Categories/Index.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Home/About.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Comments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Comments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Home/Cart.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Home/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Home/Comment.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Home/Comment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21tZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Home/Contact.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Home/Index.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Home/Library.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Home/Library.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaWJyYXJ5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Home/Service.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Home/Service.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Manager/Account.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Manager/Account.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxBY2NvdW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Manager/Admin.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Manager/Admin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Manager/Product.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Manager/Product.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Manager/StoreOwner.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Manager/StoreOwner.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxTdG9yZU93bmVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Shared/Error.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Shared/_LayoutManager.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Shared/_LayoutManager.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRNYW5hZ2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Shared/_PartialFilter.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Shared/_PartialFilter.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsRmlsdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/_ViewImports.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/_ViewStart.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Duy/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Shared/_Layout.cshtml]
+[C:/Users/trinh/OneDrive/Desktop/Duy/1670_Application_Development/1670_Source_Duy/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1cafopnwnc

@@ -1,1099 +1,1115 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\1670_Source_Duy.bundle.scp.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\1670_Source_Duy.bundle.scp.css",
       "PackagePath": "staticwebassets\\1670_Source_Duy.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\css\\admin.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\css\\admin.css",
       "PackagePath": "staticwebassets\\css\\admin.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\css\\admin.min.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\css\\admin.min.css",
       "PackagePath": "staticwebassets\\css\\admin.min.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\css\\bootstrap_admin.min.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\css\\bootstrap_admin.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap_admin.min.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\css\\fontawesome.min.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\css\\fontawesome.min.css",
       "PackagePath": "staticwebassets\\css\\fontawesome.min.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\css\\templatemo-style.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\css\\templatemo-style.css",
       "PackagePath": "staticwebassets\\css\\templatemo-style.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\Don.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\Don.jpg",
       "PackagePath": "staticwebassets\\img\\Don.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\Lord.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\Lord.jpg",
       "PackagePath": "staticwebassets\\img\\Lord.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\The_Little_Prince.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\The_Little_Prince.jpg",
       "PackagePath": "staticwebassets\\img\\The_Little_Prince.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\agatha.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\agatha.jpg",
       "PackagePath": "staticwebassets\\img\\agatha.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\arrow-down.png",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\arrow-down.png",
       "PackagePath": "staticwebassets\\img\\arrow-down.png"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\avatar.png",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\avatar.png",
       "PackagePath": "staticwebassets\\img\\avatar.png"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\b1.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\b1.jpg",
       "PackagePath": "staticwebassets\\img\\b1.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\b2.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\b2.jpg",
       "PackagePath": "staticwebassets\\img\\b2.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\b3.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\b3.jpg",
       "PackagePath": "staticwebassets\\img\\b3.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\b4.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\b4.jpg",
       "PackagePath": "staticwebassets\\img\\b4.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\book2.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\book2.jpg",
       "PackagePath": "staticwebassets\\img\\book2.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\book3.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\book3.jpg",
       "PackagePath": "staticwebassets\\img\\book3.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\book6.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\book6.jpg",
       "PackagePath": "staticwebassets\\img\\book6.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\check-mark.png",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\check-mark.png",
       "PackagePath": "staticwebassets\\img\\check-mark.png"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\demon-slayer-5486.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\demon-slayer-5486.jpg",
       "PackagePath": "staticwebassets\\img\\demon-slayer-5486.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\fpt.jpeg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\demon-slayer-season-3-release-date230521850.jpg",
+      "PackagePath": "staticwebassets\\img\\demon-slayer-season-3-release-date230521850.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\fpt.jpeg",
       "PackagePath": "staticwebassets\\img\\fpt.jpeg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\fpt3.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\fpt3.jpg",
       "PackagePath": "staticwebassets\\img\\fpt3.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\fptstore.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\fptstore.jpg",
       "PackagePath": "staticwebassets\\img\\fptstore.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\fptstore2.jpeg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\fptstore2.jpeg",
       "PackagePath": "staticwebassets\\img\\fptstore2.jpeg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\harry.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\harry.jpg",
       "PackagePath": "staticwebassets\\img\\harry.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\heo234528076.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\heo234528076.jpg",
       "PackagePath": "staticwebassets\\img\\heo234528076.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\hobbit.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\hobbit.jpg",
       "PackagePath": "staticwebassets\\img\\hobbit.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\holmes235708296.jfif",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\holmes235429949.jpg",
+      "PackagePath": "staticwebassets\\img\\holmes235429949.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\holmes235708296.jfif",
       "PackagePath": "staticwebassets\\img\\holmes235708296.jfif"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\notification-01.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\hp235530505.jpg",
+      "PackagePath": "staticwebassets\\img\\hp235530505.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\naruto233200708.jpg",
+      "PackagePath": "staticwebassets\\img\\naruto233200708.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\notification-01.jpg",
       "PackagePath": "staticwebassets\\img\\notification-01.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\notification-02.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\notification-02.jpg",
       "PackagePath": "staticwebassets\\img\\notification-02.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\notification-03.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\notification-03.jpg",
       "PackagePath": "staticwebassets\\img\\notification-03.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p1.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p1.jpg",
       "PackagePath": "staticwebassets\\img\\p1.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p10.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p10.jpg",
       "PackagePath": "staticwebassets\\img\\p10.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p11.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p11.jpg",
       "PackagePath": "staticwebassets\\img\\p11.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p12.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p12.jpg",
       "PackagePath": "staticwebassets\\img\\p12.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p13.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p13.jpg",
       "PackagePath": "staticwebassets\\img\\p13.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p2.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p2.jpg",
       "PackagePath": "staticwebassets\\img\\p2.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p3.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p3.jpg",
       "PackagePath": "staticwebassets\\img\\p3.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p4.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p4.jpg",
       "PackagePath": "staticwebassets\\img\\p4.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p5.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p5.jpg",
       "PackagePath": "staticwebassets\\img\\p5.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p6.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p6.jpg",
       "PackagePath": "staticwebassets\\img\\p6.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p7.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p7.jpg",
       "PackagePath": "staticwebassets\\img\\p7.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p8.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p8.jpg",
       "PackagePath": "staticwebassets\\img\\p8.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p9.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\p9.jpg",
       "PackagePath": "staticwebassets\\img\\p9.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\product-image.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\product-image.jpg",
       "PackagePath": "staticwebassets\\img\\product-image.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\team-1.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\team-1.jpg",
       "PackagePath": "staticwebassets\\img\\team-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\team-2.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\team-2.jpg",
       "PackagePath": "staticwebassets\\img\\team-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\team-3.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\team-3.jpg",
       "PackagePath": "staticwebassets\\img\\team-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\team-4.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\team-4.jpg",
       "PackagePath": "staticwebassets\\img\\team-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\testimonial-1.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\testimonial-1.jpg",
       "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\testimonial-2.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\testimonial-2.jpg",
       "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\testimonial-3.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\testimonial-3.jpg",
       "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\testimonial-4.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\testimonial-4.jpg",
       "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\the-joy-of-books.mp4",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\the-joy-of-books.mp4",
       "PackagePath": "staticwebassets\\img\\the-joy-of-books.mp4"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\the.jpg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\the.jpg",
       "PackagePath": "staticwebassets\\img\\the.jpg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\victor.png",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\img\\victor.png",
       "PackagePath": "staticwebassets\\img\\victor.png"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\AUTHORS.txt",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\AUTHORS.txt",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\AUTHORS.txt"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\LICENSE.txt",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\LICENSE.txt",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\external\\jquery\\jquery.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\external\\jquery\\jquery.js",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\external\\jquery\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-bg_glass_75_d0e5f5_1x400.png",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-bg_glass_75_d0e5f5_1x400.png",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\images\\ui-bg_glass_75_d0e5f5_1x400.png"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-bg_glass_85_dfeffc_1x400.png",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-bg_glass_85_dfeffc_1x400.png",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\images\\ui-bg_glass_85_dfeffc_1x400.png"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-bg_glass_95_fef1ec_1x400.png",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\images\\ui-bg_glass_95_fef1ec_1x400.png"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-icons_217bc0_256x240.png",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-icons_217bc0_256x240.png",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\images\\ui-icons_217bc0_256x240.png"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-icons_2e83ff_256x240.png",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-icons_2e83ff_256x240.png",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\images\\ui-icons_2e83ff_256x240.png"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-icons_469bdd_256x240.png",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-icons_469bdd_256x240.png",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\images\\ui-icons_469bdd_256x240.png"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-icons_6da8d5_256x240.png",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-icons_6da8d5_256x240.png",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\images\\ui-icons_6da8d5_256x240.png"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-icons_cd0a0a_256x240.png",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-icons_cd0a0a_256x240.png",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\images\\ui-icons_cd0a0a_256x240.png"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-icons_d8e7f3_256x240.png",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-icons_d8e7f3_256x240.png",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\images\\ui-icons_d8e7f3_256x240.png"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-icons_f9bd01_256x240.png",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\images\\ui-icons_f9bd01_256x240.png",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\images\\ui-icons_f9bd01_256x240.png"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\index.html",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\index.html",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\index.html"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\jquery-ui.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\jquery-ui.css",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\jquery-ui.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\jquery-ui.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\jquery-ui.js",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\jquery-ui.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\jquery-ui.min.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\jquery-ui.min.css",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\jquery-ui.min.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\jquery-ui.min.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\jquery-ui.min.js",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\jquery-ui.min.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\jquery-ui.structure.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\jquery-ui.structure.css",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\jquery-ui.structure.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\jquery-ui.structure.min.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\jquery-ui.structure.min.css",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\jquery-ui.structure.min.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\jquery-ui.theme.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\jquery-ui.theme.css",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\jquery-ui.theme.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\jquery-ui.theme.min.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\jquery-ui.theme.min.css",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\jquery-ui.theme.min.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\package.json",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\jquery-ui-datepicker\\package.json",
       "PackagePath": "staticwebassets\\jquery-ui-datepicker\\package.json"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\js\\Chart.min.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\js\\Chart.min.js",
       "PackagePath": "staticwebassets\\js\\Chart.min.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\js\\jquery-3.3.1.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\js\\main.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\js\\moment.min.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\js\\moment.min.js",
       "PackagePath": "staticwebassets\\js\\moment.min.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\js\\tooplate-scripts.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\js\\tooplate-scripts.js",
       "PackagePath": "staticwebassets\\js\\tooplate-scripts.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\animate\\animate.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\animate\\animate.css",
       "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\animate\\animate.min.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\animate\\animate.min.css",
       "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\counterup\\counterup.min.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\counterup\\counterup.min.js",
       "PackagePath": "staticwebassets\\lib\\counterup\\counterup.min.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\easing\\easing.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\easing\\easing.js",
       "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\easing\\easing.min.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\owlcarousel"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
       "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
       "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
       "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
       "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment.min.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
       "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
       "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\waypoints\\links.php",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\waypoints\\links.php",
       "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\waypoints\\waypoints.min.js",
       "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\wow\\wow.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\wow\\wow.js",
       "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\wow\\wow.min.js",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\lib\\wow\\wow.min.js",
       "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Id": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\wwwroot\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
     },
     {

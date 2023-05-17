@@ -286,6 +286,31 @@ namespace _1670_Source_Duy.Data.Migrations
                     b.ToTable("Category");
                 });
 
+            modelBuilder.Entity("_1670_Source_Duy.Models.Comment", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("BookId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Content")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("Date")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("BookId");
+
+                    b.ToTable("Comment");
+                });
+
             modelBuilder.Entity("_1670_Source_Duy.Models.ApplicationRole", b =>
                 {
                     b.HasBaseType("Microsoft.AspNetCore.Identity.IdentityRole");
@@ -353,6 +378,22 @@ namespace _1670_Source_Duy.Data.Migrations
                         .IsRequired();
 
                     b.Navigation("Category");
+                });
+
+            modelBuilder.Entity("_1670_Source_Duy.Models.Comment", b =>
+                {
+                    b.HasOne("_1670_Source_Duy.Models.Book", "Book")
+                        .WithMany("Comments")
+                        .HasForeignKey("BookId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Book");
+                });
+
+            modelBuilder.Entity("_1670_Source_Duy.Models.Book", b =>
+                {
+                    b.Navigation("Comments");
                 });
 
             modelBuilder.Entity("_1670_Source_Duy.Models.Category", b =>

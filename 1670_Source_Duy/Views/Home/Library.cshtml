@@ -62,8 +62,9 @@
                                 <p class="text-body mb-3">@Html.DisplayFor(modelItem => item.Description)</p>
                                 <p class="text-body mb-3">@Html.DisplayFor(modelItem => item.Author)</p>
                                 <div class="d-flex justify-content-between">
-                                <a class="btn btn-sm btn-primary rounded py-2 px-4" asp-controller="Books" asp-action="Details" asp-route-id="@item.BookId">View Detail</a>
-                                    <a class="btn btn-sm btn-dark rounded py-2 px-4" href="">Book Now</a>
+                                <a class="btn btn-sm btn-primary rounded py-2 px-3" asp-controller="Books" asp-action="Details" asp-route-id="@item.BookId">View Detail</a>
+                                <a class="btn btn-sm btn-primary rounded py-2 px-3" asp-controller="Comments" asp-action="Create">Write Your Comment</a>
+                                    <a class="btn btn-sm btn-dark rounded py-2 px-3" href="">Add to Cart</a>
                                 </div>
                             </div>
                         </div>

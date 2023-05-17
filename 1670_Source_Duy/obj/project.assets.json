@@ -11234,19 +11234,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Duy\\.nuget\\packages\\": {}
+    "C:\\Users\\trinh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\1670_Source_Duy.csproj",
+      "projectUniqueName": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\1670_Source_Duy.csproj",
       "projectName": "1670_Source_Duy",
-      "projectPath": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\1670_Source_Duy.csproj",
-      "packagesPath": "C:\\Users\\Duy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Duy\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\obj\\",
+      "projectPath": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\1670_Source_Duy.csproj",
+      "packagesPath": "C:\\Users\\trinh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\trinh\\OneDrive\\Desktop\\Duy\\1670_Application_Development\\1670_Source_Duy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Duy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\trinh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

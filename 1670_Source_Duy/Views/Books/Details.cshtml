@@ -58,3 +58,25 @@
             <a asp-action="Index">Back to List</a>
     </div>
 }
+<br />
+<h2>Comments</h2>
+@if (Model.Comments != null && Model.Comments.Count > 0)
+{
+    <div class="card">
+        <ul class="list-group list-group-flush">
+            @foreach (var comment in Model.Comments)
+            {
+                <li class="list-group-item">
+                    <div class="card-body">
+                        <p class="card-text">@comment.Content</p>
+                        <p class="card-text">@comment.Date.ToString("dd/MM/yyyy HH:mm")</p>
+                    </div>
+                </li>
+            }
+        </ul>
+    </div>
+}
+else
+{
+    <p>No comments available.</p>
+}

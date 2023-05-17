@@ -40,11 +40,25 @@ namespace _1670_Source_Duy.Controllers
 
             var book = await _context.Book
                 .Include(b => b.Category)
+                .Include(b => b.Category)
+                .Include(b => b.Comments) // Bao gồm bảng Comment
                 .FirstOrDefaultAsync(m => m.BookId == id);
             if (book == null)
             {
                 return NotFound();
             }
+
+            var comments = await _context.Comment
+            .Where(c => c.BookId == id)
+            .Select(c => new Comment
+            {
+                Content = c.Content,
+                Date = c.Date
+            })
+            .ToListAsync();
+
+            // Gán danh sách comment vào book
+            book.Comments = comments;
 
             return View(book);
         }
@@ -206,6 +220,7 @@ namespace _1670_Source_Duy.Controllers
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
+
 
         private bool BookExists(int id)
         {
